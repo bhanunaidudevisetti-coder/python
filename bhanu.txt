@@ -1,3 +1,8 @@
-this is my first code
-print("hello")
-print("Hell0)
+#include<stdio.h>
+int main {
+    int a,b,c;
+    scanf("%d %d", &a, &b);
+    c = a + b;
+    printf("%d",c);
+
+}
